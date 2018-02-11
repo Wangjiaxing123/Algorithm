@@ -1,0 +1,3 @@
+C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/CMakeFiles/InsertionSort.dir
+C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir

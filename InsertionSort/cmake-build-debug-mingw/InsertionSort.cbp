@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="InsertionSort"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/DevKit/mingw/bin/mingw32-make.exe -f &quot;C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/DevKit/mingw/bin/mingw32-make.exe -f &quot;C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevKit/mingw/bin/mingw32-make.exe -f &quot;C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevKit/mingw/bin/mingw32-make.exe -f &quot;C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="InsertionSort">
+				<Option output="C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/InsertionSort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\devkit\mingw\bin\../lib/gcc/x86_64-w64-mingw32/4.7.2/../../../../include/c++/4.7.2"/>
+					<Add directory="d:\devkit\mingw\bin\../lib/gcc/x86_64-w64-mingw32/4.7.2/../../../../include/c++/4.7.2/x86_64-w64-mingw32"/>
+					<Add directory="d:\devkit\mingw\bin\../lib/gcc/x86_64-w64-mingw32/4.7.2/../../../../include/c++/4.7.2/backward"/>
+					<Add directory="d:\devkit\mingw\bin\../lib/gcc/x86_64-w64-mingw32/4.7.2/include"/>
+					<Add directory="d:\devkit\mingw\bin\../lib/gcc/x86_64-w64-mingw32/4.7.2/include-fixed"/>
+					<Add directory="d:\devkit\mingw\bin\../lib/gcc/x86_64-w64-mingw32/4.7.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/DevKit/mingw/bin/mingw32-make.exe -f &quot;C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 InsertionSort"/>
+					<CompileFile command="D:/DevKit/mingw/bin/mingw32-make.exe -f &quot;C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevKit/mingw/bin/mingw32-make.exe -f &quot;C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevKit/mingw/bin/mingw32-make.exe -f &quot;C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="InsertionSort/fast">
+				<Option output="C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/InsertionSort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\devkit\mingw\bin\../lib/gcc/x86_64-w64-mingw32/4.7.2/../../../../include/c++/4.7.2"/>
+					<Add directory="d:\devkit\mingw\bin\../lib/gcc/x86_64-w64-mingw32/4.7.2/../../../../include/c++/4.7.2/x86_64-w64-mingw32"/>
+					<Add directory="d:\devkit\mingw\bin\../lib/gcc/x86_64-w64-mingw32/4.7.2/../../../../include/c++/4.7.2/backward"/>
+					<Add directory="d:\devkit\mingw\bin\../lib/gcc/x86_64-w64-mingw32/4.7.2/include"/>
+					<Add directory="d:\devkit\mingw\bin\../lib/gcc/x86_64-w64-mingw32/4.7.2/include-fixed"/>
+					<Add directory="d:\devkit\mingw\bin\../lib/gcc/x86_64-w64-mingw32/4.7.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/DevKit/mingw/bin/mingw32-make.exe -f &quot;C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 InsertionSort/fast"/>
+					<CompileFile command="D:/DevKit/mingw/bin/mingw32-make.exe -f &quot;C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevKit/mingw/bin/mingw32-make.exe -f &quot;C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevKit/mingw/bin/mingw32-make.exe -f &quot;C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/DevKit/mingw/bin/mingw32-make.exe -f &quot;C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/DevKit/mingw/bin/mingw32-make.exe -f &quot;C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevKit/mingw/bin/mingw32-make.exe -f &quot;C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevKit/mingw/bin/mingw32-make.exe -f &quot;C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/DevKit/mingw/bin/mingw32-make.exe -f &quot;C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/DevKit/mingw/bin/mingw32-make.exe -f &quot;C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevKit/mingw/bin/mingw32-make.exe -f &quot;C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevKit/mingw/bin/mingw32-make.exe -f &quot;C:/MyProject/CLionProjects/Algorithm/InsertionSort/cmake-build-debug-mingw/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/MyProject/CLionProjects/Algorithm/InsertionSort/BubbleSort.h">
+			<Option target="InsertionSort"/>
+		</Unit>
+		<Unit filename="C:/MyProject/CLionProjects/Algorithm/InsertionSort/SelectionSort.h">
+			<Option target="InsertionSort"/>
+		</Unit>
+		<Unit filename="C:/MyProject/CLionProjects/Algorithm/InsertionSort/ShellSort.h">
+			<Option target="InsertionSort"/>
+		</Unit>
+		<Unit filename="C:/MyProject/CLionProjects/Algorithm/InsertionSort/main.cpp">
+			<Option target="InsertionSort"/>
+		</Unit>
+		<Unit filename="C:/MyProject/CLionProjects/Algorithm/InsertionSort/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
